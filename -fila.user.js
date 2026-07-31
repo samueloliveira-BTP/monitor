@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         Monitor Fila SZ.chat - Logs e Cronômetro de Pausa (V8)
+// @name         Monitor Fila SZ.chat - Final
 // @namespace    http://tampermonkey.net/
-// @version      8.0
-// @description  Resolve falsos atendimentos e adiciona aba com cronômetro de tempo em pausa.
+// @version      1.3
+// @description  Painel redimensionável, foco em atendimentos e cronômetro de pausas.
 // @author       Samuel Luiz
 // @match        http://toolsvgl.gegnet.com.br/fila*
-// @updateURL    
-// @downloadURL
+// @updateURL    https://raw.githubusercontent.com/samueloliveira-BTP/monitor/main/-fila.user.js
+// @downloadURL  https://raw.githubusercontent.com/samueloliveira-BTP/monitor/main/-fila.user.js
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
